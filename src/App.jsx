@@ -15,7 +15,7 @@ export default function App() {
       {/* <button onClick={notify}>Make me a toast</button> */}
       {/* <SignUp/> */}
       {/* <Query/> */}
-      <AddProduct isUpadted={isUpadted} setIsUpdated={setIsUpdated} />
+      {/* <AddProduct isUpadted={isUpadted} setIsUpdated={setIsUpdated} /> */}
 
       {/* user details  */}
       <User
