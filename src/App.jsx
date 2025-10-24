@@ -16,15 +16,15 @@ export default function App() {
       {/* <SignUp/> */}
       {/* <Query/> */}
       {/* <AddProduct isUpadted={isUpadted} setIsUpdated={setIsUpdated} /> */}
-
+hello
       {/* user details  */}
-      <User
+      {/* <User
         name="John"
         role="Mern dev"
         salary={45000}
         cp="CMS"
         email="gwedewgruy@gmail.com"
-      />
+      /> */}
       {/* <Employee/> */}
     </div>
   );
