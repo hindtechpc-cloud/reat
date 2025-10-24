@@ -10,6 +10,8 @@ export default function User({ name, role, salary, email, cp }) {
       <h1>Salary : {salary}</h1>
       <h1>Email : {email}</h1>
       <h1>CP : {cp}</h1>
+      <h1>CP : {cp}</h1>
+      <h1>CP : {cp}</h1>
     </div>
   );
 }
