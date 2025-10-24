@@ -15,16 +15,16 @@ export default function App() {
       {/* <button onClick={notify}>Make me a toast</button> */}
       {/* <SignUp/> */}
       {/* <Query/> */}
-      {/* <AddProduct isUpadted={isUpadted} setIsUpdated={setIsUpdated} /> */}
-hello
+      <AddProduct isUpadted={isUpadted} setIsUpdated={setIsUpdated} />
+
       {/* user details  */}
-      {/* <User
+      <User
         name="John"
         role="Mern dev"
         salary={45000}
         cp="CMS"
         email="gwedewgruy@gmail.com"
-      /> */}
+      />
       {/* <Employee/> */}
     </div>
   );
